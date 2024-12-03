@@ -1,0 +1,10 @@
+.App {
+  text-align: center;
+}
+
+html { scroll-behavior: smooth; }
+
+.leaflet-container {
+  height: 400px;
+  width: 100%;
+}

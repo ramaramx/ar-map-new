@@ -1,0 +1,57 @@
+[
+  {
+    "id": "1",
+    "title": "Serene Mountain Landscape",
+    "description": "Capture the beauty of nature with this breathtaking mountain view.",
+    "category": "Travel",
+    "imageUrl": "https://plus.unsplash.com/premium_photo-1682310071124-33632135b2ee",
+    "position": {
+      "lat": 37.7749,
+      "lon": -122.4194
+    }
+  },
+  {
+    "id": "2",
+    "title": "Delicious Breakfast Pancakes",
+    "description": "Start your day right with these warm, fluffy pancakes.",
+    "category": "Food",
+    "imageUrl": "https://plus.unsplash.com/premium_photo-1682310071124-33632135b2ee",
+    "position": {
+      "lat": 37.8194,
+      "lon": -122.4194
+    }
+  },
+  {
+    "id": "3",
+    "title": "Morning Yoga Routine",
+    "description": "A perfect way to kickstart your day with peace and flexibility.",
+    "category": "Health",
+    "imageUrl": "https://plus.unsplash.com/premium_photo-1682310071124-33632135b2ee",
+    "position": {
+      "lat": 37.7749,
+      "lon": -122.3739
+    }
+  },
+  {
+    "id": "4",
+    "title": "Stylish Home Office Design",
+    "description": "Create a workspace that inspires productivity and creativity.",
+    "category": "Lifestyle",
+    "imageUrl": "https://plus.unsplash.com/premium_photo-1682310071124-33632135b2ee",
+    "position": {
+      "lat": 37.7304,
+      "lon": -122.4194
+    }
+  },
+  {
+    "id": "5",
+    "title": "Tech Enthusiast’s Paradise",
+    "description": "Explore the latest gadgets and innovations in the tech world.",
+    "category": "Technology",
+    "imageUrl": "https://plus.unsplash.com/premium_photo-1682310071124-33632135b2ee",
+    "position": {
+      "lat": 37.7749,
+      "lon": -122.4649
+    }
+  }
+]
