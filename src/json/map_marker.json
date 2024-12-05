@@ -1,13 +1,13 @@
 [
   {
     "id": "1",
-    "title": "Serene Mountain Landscape",
+    "title": "Station 1 - Thomas-Müntzer-Denkmal",
     "description": "Capture the beauty of nature with this breathtaking mountain view.",
     "category": "Travel",
-    "imageUrl": "https://plus.unsplash.com/premium_photo-1682310071124-33632135b2ee",
+    "imageUrl": "https://ar.muehlhausen.de/wp-content/uploads/2024/11/ar_web_tour_1_overview_teaser1.jpg",
     "position": {
-      "lat": 37.7749,
-      "lon": -122.4194
+      "lat": 51.20982665151769, 
+      "lon": 10.451197690872831
     }
   },
   {
