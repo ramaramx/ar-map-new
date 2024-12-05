@@ -1,38 +1,30 @@
-# .github/workflows/example.yml
+name: Sync Main Branch
 
-name: Merge upstream branches
 on:
   schedule:
-     # actually, ~5 minutes is the highest
-     # effective frequency you will get
-    - cron:  '* * * * *'
+    - cron: '*/5 * * * *' # Menjalankan setiap 5 menit (minimal interval yang efektif)
+
 jobs:
-  merge:
+  sync-main:
     runs-on: ubuntu-latest
+
     steps:
       - uses: actions/checkout@v2
-      - name: Merge upstream
+
+      - name: Configure Git
         run: |
           git config --global user.name 'ramaramx'
           git config --global user.email 'rambudiarto@gmail.com'
 
-          # "git checkout master" is unnecessary, already here by default
-          git pull --unshallow  # this option is very important, you would get
-                                # complains about unrelated histories without it.
-                                # (but actions/checkout@v2 can also be instructed
-                                # to fetch all git depth right from the start)
+      - name: Add upstream repository
+        run: git remote add upstream https://github.com/PIXO-DE/ar-map-new.git
 
-          git remote add upstream https://github.com/PIXO-DE/ar-map-new.git
-          git fetch upstream
+      - name: Fetch and merge changes
+        run: |
+          git fetch upstream main
+          git merge --no-edit upstream/main
 
-          # Neither forget the -b opt,
-          # the feature/x ref is ambiguous at this stage
-          git checkout -b feature/x origin/feature/x
-          git merge --no-edit upstream/feature/x
-          git push origin feature/x
-
-          git checkout master
-          git merge --no-edit upstream/master
-          git push origin master
-
-          # etc
+      - name: Push changes to fork
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: git push origin main
