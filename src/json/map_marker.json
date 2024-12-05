@@ -12,13 +12,13 @@
   },
   {
     "id": "2",
-    "title": "Station 2 Museum St. Marien | Müntzergedenkstätte",
+    "title": "Station 2 Museum St. Marien | Müntzergedenkstätte", 
     "description": "Start your day right with these warm, fluffy pancakes.",
     "category": "Food",
     "imageUrl": "https://ar.muehlhausen.de/wp-content/uploads/2024/11/ar_web_tour_1_overview_teaser2.jpg",
     "position": {
-      "lat": 37.8194,
-      "lon": -122.4194
+      "lat": 51.21012528385237,  
+      "lon": 10.454590052103224
     }
   },
   {
@@ -28,8 +28,8 @@
     "category": "Health",
     "imageUrl": "https://ar.muehlhausen.de/thomas-muentzer-und-der-bauernkrieg/",
     "position": {
-      "lat": 37.7749,
-      "lon": -122.3739
+      "lat": 51.20989343446181, 
+      "lon": 10.462028552379396
     }
   },
   {
@@ -39,8 +39,8 @@
     "category": "Lifestyle",
     "imageUrl": "https://plus.unsplash.com/premium_photo-1682310071124-33632135b2ee",
     "position": {
-      "lat": 37.7304,
-      "lon": -122.4194
+      "lat": 51.2082521338739, 
+      "lon": 10.457043621853513
     }
   },
   {
@@ -50,8 +50,8 @@
     "category": "Technology",
     "imageUrl": "https://plus.unsplash.com/premium_photo-1682310071124-33632135b2ee",
     "position": {
-      "lat": 37.7749,
-      "lon": -122.4649
+      "lat": 51.20890344784336, 
+      "lon": 10.456263961747167
     }
   },
   {
@@ -61,8 +61,8 @@
     "category": "Technology",
     "imageUrl": "https://plus.unsplash.com/premium_photo-1682310071124-33632135b2ee",
     "position": {
-      "lat": 37.7749,
-      "lon": -122.4649
+      "lat": 51.206488801286945,  
+      "lon": 10.457606174556165
     }
   },
   {
@@ -72,8 +72,8 @@
     "category": "Technology",
     "imageUrl": "https://plus.unsplash.com/premium_photo-1682310071124-33632135b2ee",
     "position": {
-      "lat": 37.7749,
-      "lon": -122.4649
+      "lat": 51.20983049304438, 
+      "lon": 10.454655847191338
     }
       },
   {
