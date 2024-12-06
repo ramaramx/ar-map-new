@@ -85,7 +85,7 @@ const App = () => {
             </div>
             {triger &&
                 <div className="data-list">
-                    <h2>Tourenübersicht</h2>
+                    <h2>Übersicht Touren</h2>
                     <div className="content">
                         {filteredItems.map((item, index) => <div key={index}>
                             <Row gutter={[26, 26]} align={"middle"} style={{marginBottom: 16}} id={item.id}>
@@ -95,18 +95,18 @@ const App = () => {
                                 </Col>
                                 <Col>
                                     <div>
-					<div className="category">
-                                            <h4{item.category}</h4>
+				     <div className="category">
+                                            <h4>{item.category}</h4>
                                         </div>
                                         <div className="title">
                                             <h3 id={'map-title-' + item.id} style={{
                                                 margin: 0,
                                                 marginBottom: '1rem',
-                                            }}>{item.title}</h3>
+                                            }}>{item.id}</h3>
                                         </div>
 
 					<div className="description">
-                                            <h4{item.description}</h4>
+                                            {item.description}
                                         </div>
 
                                         <div className="category" style={{marginBottom: 16}}>
