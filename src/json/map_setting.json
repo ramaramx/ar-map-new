@@ -1,11 +1,11 @@
 {
   "center": [51.209117188781946, 10.467479669654676],
   "minZoom": 10,
-  "maxZoom": 12,
-  "zoom": 12,
-  "dragging": false,
-  "scrollWheelZoom": false,
-  "zoomControl": false,
+  "maxZoom": 16,
+  "zoom": 16,
+  "dragging": true,
+  "scrollWheelZoom": true,
+  "zoomControl": true,
   "style": {
     "minHeight": "500px",
     "width": "100%"
