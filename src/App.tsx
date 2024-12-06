@@ -102,7 +102,7 @@ const App = () => {
                                             <h3 id={'map-title-' + item.id} style={{
                                                 margin: 0,
                                                 marginBottom: '1rem',
-                                            }}>{item.id}</h3>
+                                            }}>{item.title}</h3>
                                         </div>
 
 					<div className="description">
