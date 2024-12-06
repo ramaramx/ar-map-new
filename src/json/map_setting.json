@@ -4,7 +4,7 @@
   "maxZoom": 16,
   "zoom": 15,
   "dragging": true,
-  "scrollWheelZoom": true,
+  "scrollWheelZoom": false,
   "zoomControl": true,
   "style": {
     "minHeight": "500px",
