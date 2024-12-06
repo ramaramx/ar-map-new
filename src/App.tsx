@@ -91,7 +91,7 @@ const App = () => {
                             <Row gutter={[26, 26]} align={"middle"} style={{marginBottom: 16}} id={item.id}>
                                 <Col>
                                     <img  
-                                         src={item.imageUrl} alt=""/>
+                                         src={item.imageUrl} style={{maxWidth:'100%'}} alt=""/>
                                 </Col>
                                 <Col>
                                     <div>
