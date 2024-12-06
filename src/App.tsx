@@ -119,7 +119,7 @@ const App = () => {
                                                 window.open(`https://www.google.com/maps/@${item.position.lat} , ${item.position.lon}`)
                                                 }
                                             }} size={"small"} color="default" variant="outlined">
-                                                Open
+                                                zur Routenführung
                                             </Button>
                                         </div>
                                     </div>
