@@ -1,42 +1,18 @@
 [
   {
-    "name": "Travel",
-    "icon": "/icon/plane-solid.svg"
+    "name": "Müntzer-Tour",
+    "icon": "/icon/tour-1.svg"
   },
   {
-    "name": "Food",
-    "icon": "/icon/bowl-food-solid.svg"
+    "name": "Mittelalterliche Reichsstadt-Tour",
+    "icon": "/icon/tour-2.svg"
   },
   {
-    "name": "Health",
-    "icon": "/icon/notes-medical-solid.svg"
+    "name": "J.S. Bach-Tour",
+    "icon": "/icon/tour-3.svg"
   },
   {
-    "name": "Lifestyle",
-    "icon": "/icon/life-ring-solid.svg"
-  },
-  {
-    "name": "Technology",
-    "icon": "/icon/microchip-solid.svg"
-  },
-  {
-    "name": "Fitness",
-    "icon": "/icon/child-reaching-solid.svg"
-  },
-  {
-    "name": "Education",
-    "icon": "/icon/school-solid.svg"
-  },
-  {
-    "name": "Entertainmenst",
-    "icon": "/icon/heart-solid.svg"
-  },
-  {
-    "name": "Business",
-    "icon": "/icon/business-time-solid.svg"
-  },
-  {
-    "name": "Design",
-    "icon": "/icon/pen-nib-solid.svg"
+    "name": "Sagen-Tour",
+    "icon": "/icon/tour-4.svg"
   }
 ]
