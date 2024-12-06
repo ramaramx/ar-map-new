@@ -90,7 +90,7 @@ const App = () => {
                         {filteredItems.map((item, index) => <div key={index}>
                             <Row gutter={[26, 26]} align={"middle"} style={{marginBottom: 16}} id={item.id}>
                                 <Col>
-                                    <img width={125} height={125} style={{objectFit: 'cover', borderRadius: 8}}
+                                    <img  
                                          src={item.imageUrl} alt=""/>
                                 </Col>
                                 <Col>
