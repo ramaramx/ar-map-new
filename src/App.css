@@ -9,7 +9,7 @@ html { scroll-behavior: smooth; }
   width: 100%;
 }
 
-.content img {
+img {
     max-width: 100%;
     height: auto;
 }

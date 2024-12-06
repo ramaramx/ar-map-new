@@ -88,7 +88,7 @@ const App = () => {
                     <h2>Übersicht Touren</h2>
                     <div className="content">
                         {filteredItems.map((item, index) => <div key={index}>
-                            <Row gutter={[26, 26]} align={"middle"} style={{marginBottom: 16}} id={item.id}>
+                            <Row gutter={[26, 26]} align={"middle"} style={{maxWidth = 100%}} id={item.id}>
                                 <Col>
                                     <img  
                                          src={item.imageUrl} alt=""/>
