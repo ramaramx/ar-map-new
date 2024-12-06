@@ -2,7 +2,7 @@
   "center": [51.21015999918106, 10.455088419980207],  
   "minZoom": 10,
   "maxZoom": 16,
-  "zoom": 16,
+  "zoom": 15,
   "dragging": true,
   "scrollWheelZoom": true,
   "zoomControl": true,
