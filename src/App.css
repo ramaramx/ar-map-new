@@ -8,3 +8,8 @@ html { scroll-behavior: smooth; }
   height: 400px;
   width: 100%;
 }
+
+.content img {
+    max-width: 100%;
+    height: auto;
+}
