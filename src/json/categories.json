@@ -1,17 +1,21 @@
 [
   {
+    "id": "tour-1",
     "name": "Müntzer-Tour",
     "icon": "/icon/tour-1.svg"
   },
   {
+    "id": "tour-2",
     "name": "Mittelalterliche Reichsstadt-Tour",
     "icon": "/icon/tour-2.svg"
   },
   {
+    "id": "tour-3",
     "name": "J.S. Bach-Tour",
     "icon": "/icon/tour-3.svg"
   },
   {
+    "id": "tour-4",
     "name": "Sagen-Tour",
     "icon": "/icon/tour-4.svg"
   }

@@ -4,6 +4,7 @@
     "title": "Station 1 - Thomas-Müntzer-Denkmal ",
     "description": "Capture the beauty of nature with this breathtaking mountain view.",
     "category": "Müntzer-Tour",
+    "categorie_id": "tour-1",
     "imageUrl": "/images/ar_web_tour_1_overview_teaser1.jpg",
     "position": {
       "lat": 51.20982665151769, 
@@ -15,6 +16,7 @@
     "title": "Station 2 Museum St. Marien | Müntzergedenkstätte", 
     "description": "Start your day right with these warm, fluffy pancakes.",
     "category": "Müntzer-Tour",
+"categorie_id": "tour-1",
     "imageUrl": "/images/ar_web_tour_1_overview_teaser2.jpg",
     "position": {
       "lat": 51.21012528385237,  
@@ -26,6 +28,7 @@
     "title": "Station 3 Allerheiligenkirche",
     "description": "A perfect way to kickstart your day with peace and flexibility.",
     "category": "Müntzer-Tour",
+"categorie_id": "tour-1",
     "imageUrl": "/images/ar_web_tour_1_overview_teaser3.jpg",
     "position": {
       "lat": 51.20989343446181, 
@@ -37,6 +40,7 @@
     "title": "Station 4 Bauernkriegsmuseum",
     "description": "Create a workspace that inspires productivity and creativity.",
     "category": "Müntzer-Tour",
+"categorie_id": "tour-1",
     "imageUrl": "/images/ar_web_tour_1_overview_teaser4.jpg",
     "position": {
       "lat": 51.2082521338739, 
@@ -48,6 +52,7 @@
     "title": "Station 5 Rathaus",
     "description": "Explore the latest gadgets and innovations in the tech world.",
     "category": "Müntzer-Tour",
+"categorie_id": "tour-1",
     "imageUrl": "/images/ar_web_tour_1_overview_teaser5.jpg",
     "position": {
       "lat": 51.20890344784336, 
@@ -59,6 +64,7 @@
     "title": "Station 6 Kulturhistorisches Museum",
     "description": "Explore the latest gadgets and innovations in the tech world.",
     "category": "Müntzer-Tour",
+"categorie_id": "tour-1",
     "imageUrl": "/images/ar_web_tour_1_overview_teaser6.jpg",
     "position": {
       "lat": 51.206488801286945,  
@@ -70,6 +76,7 @@
     "title": "Station 7 Wohnhaus",
     "description": "Explore the latest gadgets and innovations in the tech world.",
     "category": "Müntzer-Tour",
+"categorie_id": "tour-1",
     "imageUrl": "/images/ar_web_tour_1_overview_teaser7.jpg",
     "position": {
       "lat": 51.20983049304438, 
@@ -81,6 +88,7 @@
     "title": "Station 8 Antoniushospital",
     "description": "Explore the latest gadgets and innovations in the tech world.",
     "category": "Müntzer-Tour",
+"categorie_id": "tour-1",
     "imageUrl": "/images/ar_web_tour_1_overview_teaser8.jpg",
     "position": {
       "lat": 51.210330966383815, 
@@ -92,6 +100,7 @@
     "title": "Station 1 Felchtaer Tor",
     "description": "Explore the latest gadgets and innovations in the tech world.",
     "category": "Mittelalterliche Reichsstadt-Tour",
+"categorie_id": "tour-2",
     "imageUrl": "/images/ar_web_tour_2_overview_teaser.jpg",
     "position": {
       "lat": 51.207103306270156, 
@@ -103,6 +112,7 @@
     "title": "Station 2 Spendegraben (Lindenbühl)",
     "description": "Explore the latest gadgets and innovations in the tech world.",
     "category": "Mittelalterliche Reichsstadt-Tour",
+"categorie_id": "tour-2",
     "imageUrl": "/images/ar_web_tour_2_overview_teaser.jpg",
     "position": {
       "lat": 51.206182828977745, 
@@ -114,6 +124,7 @@
     "title": "Station 3 Burgstelle",
     "description": "Explore the latest gadgets and innovations in the tech world.",
     "category": "Mittelalterliche Reichsstadt-Tour",
+"categorie_id": "tour-2",
     "imageUrl": "/images/ar_web_tour_2_overview_teaser2.jpg",
     "position": {
       "lat": 51.211769085992245, 
@@ -125,6 +136,7 @@
     "title": "Station 4 Inneres Frauentor",
     "description": "Explore the latest gadgets and innovations in the tech world.",
     "category": "Mittelalterliche Reichsstadt-Tour",
+"categorie_id": "tour-2",
     "imageUrl": "/images/ar_web_tour_2_overview_teaser3.jpg",
     "position": {
       "lat": 51.2095266196237, 
@@ -136,6 +148,7 @@
     "title": "Station 5 Rabenturm",
     "description": "Explore the latest gadgets and innovations in the tech world.",
     "category": "Mittelalterliche Reichsstadt-Tour",
+"categorie_id": "tour-2",
     "imageUrl": "/images/ar_web_tour_2_overview_teaser4.jpg",
     "position": {
       "lat": 51.21021597731322, 
@@ -147,6 +160,7 @@
     "title": "Station 6 Garten- und Lusthäuschen",
     "description": "Explore the latest gadgets and innovations in the tech world.",
     "category": "Mittelalterliche Reichsstadt-Tour",
+"categorie_id": "tour-2",
     "imageUrl": "/images/ar_web_tour_2_overview_teaser5.jpg",
     "position": {
       "lat": 51.21142953848421, 
@@ -158,6 +172,7 @@
     "title": "Station 7 Jakobikirche/Lentzeplatz",
     "description": "Explore the latest gadgets and innovations in the tech world.",
     "category": "Mittelalterliche Reichsstadt-Tour",
+"categorie_id": "tour-2",
     "imageUrl": "/images/ar_web_tour_2_overview_teaser6.jpg",
     "position": {
       "lat": 51.20755997258269, 
@@ -169,6 +184,7 @@
     "title": "Station 8 Antoniushospital",
     "description": "Explore the latest gadgets and innovations in the tech world.",
     "category": "Mittelalterliche Reichsstadt-Tour",
+"categorie_id": "tour-2",
     "imageUrl": "/images/ar_web_tour_2_overview_teaser7.jpg",
     "position": {
       "lat": 51.210330966383815, 
@@ -180,6 +196,7 @@
     "title": "Station 9 Rathaus",
     "description": "Explore the latest gadgets and innovations in the tech world.",
     "category": "Mittelalterliche Reichsstadt-Tour",
+"categorie_id": "tour-2",
     "imageUrl": "https://plus.unsplash.com/premium_photo-1682310071124-33632135b2ee",
     "position": {
       "lat": 51.20887886277148, 
@@ -191,6 +208,7 @@
     "title": "Station 1 Rathaus",
     "description": "Explore the latest gadgets and innovations in the tech world.",
     "category": "J.S. Bach-Tour",
+"categorie_id": "tour-3",
     "imageUrl": "/images/ar_web_tour_3_overview_teaser.jpg",
     "position": {
        "lat": 51.20887886277148, 
@@ -202,6 +220,7 @@
     "title": "Station 2 Museum St. Marien | Müntzergedenkstätte",
     "description": "Explore the latest gadgets and innovations in the tech world.",
     "category": "J.S. Bach-Tour",
+"categorie_id": "tour-3",
     "imageUrl": "/images/ar_web_tour_3_overview_teaser2.jpg",
     "position": {
       "lat": 51.20991614317381, 
@@ -213,6 +232,7 @@
     "title": "Station 3 Divi-Blasii-Kirche",
     "description": "Explore the latest gadgets and innovations in the tech world.",
     "category": "J.S. Bach-Tour",
+"categorie_id": "tour-3",
     "imageUrl": "/images/ar_web_tour_3_overview_teaser3.jpg",
     "position": {
       "lat": 51.20728186091517, 
@@ -224,6 +244,7 @@
     "title": "Station 4 Kirche des Brückenklosters",
     "description": "Explore the latest gadgets and innovations in the tech world.",
     "category": "J.S. Bach-Tour",
+"categorie_id": "tour-3",
     "imageUrl": "/images/ar_web_tour_3_overview_teaser4.jpg",
     "position": {
       "lat": 51.20943624378997, 
@@ -235,6 +256,7 @@
     "title": "Station 1 Der Schatz in der Kugelleichsmühle",
     "description": "Explore the latest gadgets and innovations in the tech world.",
     "category": "Sagen-Tour",
+"categorie_id": "tour-4",
     "imageUrl": "/images/s1.jpg",
     "position": {
       "lat": 51.206951466088185, 
@@ -247,6 +269,7 @@
     "title": "Station 2 Die Unstrutnixe",
     "description": "Explore the latest gadgets and innovations in the tech world.",
     "category": "Sagen-Tour",
+"categorie_id": "tour-4",
     "imageUrl": "/images/s2.jpg",
     "position": {
       "lat": 51.216900234532226, 
@@ -258,6 +281,7 @@
     "title": "Station 3 Die drei Rebhühner der Marienkirche",
     "description": "Explore the latest gadgets and innovations in the tech world.",
     "category": "Sagen-Tour",
+"categorie_id": "tour-4",
     "imageUrl": "/images/s3.jpg",
     "position": {
       "lat": 51.21035289708648, 
@@ -269,6 +293,7 @@
     "title": "Station 4 Meister Friedbert",
     "description": "Explore the latest gadgets and innovations in the tech world.",
     "category": "Sagen-Tour",
+"categorie_id": "tour-4",
     "imageUrl": "/images/s4.jpg",
     "position": {
       "lat": 51.209392502462485, 
@@ -280,6 +305,7 @@
     "title": "Station 5 Zuleitung der Breitsülze",
     "description": "Explore the latest gadgets and innovations in the tech world.",
     "category": "Sagen-Tour",
+"categorie_id": "tour-4",
     "imageUrl": "/images/s5.jpg",
     "position": {
       "lat": 51.210330966383815, 
@@ -291,6 +317,7 @@
     "title": "Station 6 Mühlhäuser Pflöcke",
     "description": "Explore the latest gadgets and innovations in the tech world.",
     "category": "Sagen-Tour",
+"categorie_id": "tour-4",
     "imageUrl": "/images/s6.jpg",
     "position": {
       "lat": 51.2095266196237, 
