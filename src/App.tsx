@@ -146,8 +146,8 @@ const App = () => {
                                                 } else {
                                                     window.open(`https://www.google.com/maps/@${item.position.lat} , ${item.position.lon}&dirflg=w`)
                                                 }
-                                            }} className="mainbutton">
-                                                zur Routenführung
+                                            }} className={`mainbutton ${item.categorie_id}`}>
+                                               <span style={{color: "white"}}> zur Routenführung </span>
                                             </Button>
                                         </div>
                                         

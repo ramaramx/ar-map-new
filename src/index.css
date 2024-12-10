@@ -118,19 +118,19 @@ h3 {
 }
 
 .tour-1 {
-    color: #70405f;
+    color: #70405f !important;
 }
 
 .tour-2 {
-    color: #b85e5b;
+    color: #b85e5b !important;
 }
 
 .tour-3 {
-    color: #e0ba6d;
+    color: #e0ba6d !important;
 }
 
 .tour-4 {
-    color: #004480;
+    color: #004480 !important;
 }
 
 button {
