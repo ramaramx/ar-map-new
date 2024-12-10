@@ -129,6 +129,10 @@ const App = () => {
                                             }}>{item.title}</h3>
                                         </div>
 
+                                        <div className="description categories_id">
+                                        {item.categorie_id}
+                                        </div>
+
                                         <div className="description">
                                             {item.description}
                                         </div>
@@ -142,10 +146,11 @@ const App = () => {
                                                 } else {
                                                     window.open(`https://www.google.com/maps/@${item.position.lat} , ${item.position.lon}&dirflg=w`)
                                                 }
-                                            }} className="mainbutton {item.categorie_id}">
+                                            }} className="mainbutton">
                                                 zur Routenführung
                                             </Button>
                                         </div>
+                                        
                                     </div>
                                 </Col>
                             </Row>
