@@ -133,7 +133,7 @@ const App = () => {
                                             {item.description}
                                         </div>
 
-                                        <div className="category " style={{ marginBottom: '16', paddingTop: '20px' }}>
+                                        <div className="links ">
                                             <Button onClick={() => {
                                                 if (isAndroid()) {
                                                     window.open(`google.navigation:q=(${item.position.lat} , ${item.position.lon})&dirflg=w`)
@@ -173,7 +173,7 @@ const App = () => {
                             zIndex: 1000,
                         }}
                     >
-                        Back to Top
+                        Zur Übersicht
                     </button>
                 )}
             </div>
