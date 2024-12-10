@@ -160,6 +160,8 @@ button:focus-visible {
       border: none;
     height: auto;
     line-height: 130%;
+    box-shadow: 1px 1px 15px rgba(0,0,0,.5);
+    font-family: 'akko_medium';
 }
 
 .mainbutton.tour-2 {
