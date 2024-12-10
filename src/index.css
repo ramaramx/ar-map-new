@@ -104,8 +104,32 @@ h2 {
     text-align: center;
 }
 
-.category, .title, .description {
+h3 {
+    font-size: 1.5rem;
+}
+
+.category, .title, .description, .links {
     padding: 0px 20px;
+}
+
+.links {
+    margin-top: 10px;
+}
+
+.tour-1 {
+    color: #70405f;
+}
+
+.tour-2 {
+    color: #b85e5b;
+}
+
+.tour-3 {
+    color: #e0ba6d;
+}
+
+.tour-4 {
+    color: #004480;
 }
 
 button {
@@ -125,6 +149,26 @@ button:hover {
 button:focus,
 button:focus-visible {
   outline: 4px auto -webkit-focus-ring-color;
+}
+
+.mainbutton {
+      background: #70405f;
+      padding: 10px 15px;
+      display: block;
+      color: white;
+      border: none;
+}
+
+.mainbutton.tour-2 {
+    background: #b85e5b;
+}
+
+.mainbutton.tour-3 {
+    background: #e0ba6d;
+}
+
+.mainbutton.tour-4 {
+    background: #004480;
 }
 
 @media (prefers-color-scheme: light) {
