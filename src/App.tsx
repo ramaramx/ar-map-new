@@ -119,7 +119,7 @@ const App = () => {
                                 </Col>
                                 <Col>
                                     <div>
-                                        <div className="category {item.category_id}">
+                                        <div className="category {item.categorie_id}">
                                             <h4>{item.category}</h4>
                                         </div>
                                         <div className="title">
@@ -142,7 +142,7 @@ const App = () => {
                                                 } else {
                                                     window.open(`https://www.google.com/maps/@${item.position.lat} , ${item.position.lon}&dirflg=w`)
                                                 }
-                                            }} className="mainbutton {item.category_id}">
+                                            }} className="mainbutton {item.categorie_id}">
                                                 zur Routenführung
                                             </Button>
                                         </div>
