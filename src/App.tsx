@@ -119,7 +119,7 @@ const App = () => {
                                 </Col>
                                 <Col>
                                     <div>
-                                        <div className="category">
+                                        <div className="category {item.category_id}">
                                             <h4>{item.category}</h4>
                                         </div>
                                         <div className="title">
