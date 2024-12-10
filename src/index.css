@@ -113,7 +113,8 @@ h3 {
 }
 
 .links {
-    margin-top: 10px;
+    margin-top: 1.5rem;
+    margin-bottom: 1.5rem;
 }
 
 .tour-1 {
@@ -157,6 +158,8 @@ button:focus-visible {
       display: block;
       color: white;
       border: none;
+    height: auto;
+    line-height: 130%;
 }
 
 .mainbutton.tour-2 {
