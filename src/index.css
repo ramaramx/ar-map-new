@@ -1,3 +1,43 @@
+
+/********** Fonts ***********/
+
+@font-face {
+    font-family: 'akko_bold';
+    src: url('assets/fonts/akkopro-bold-webfont.woff2') format('woff2'),
+         url('assets/fonts/akkopro-bold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+@font-face {
+    font-family: 'akko_light';
+    src: url('assets/fonts/akkopro-light-webfont.woff2') format('woff2'),
+         url('assets/fonts/akkopro-light-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'akko_medium';
+    src: url('assets/fonts/akkopro-medium-webfont.woff2') format('woff2'),
+         url('assets/fonts/akkopro-medium-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'akko_regular';
+    src: url('assets/fonts/akkopro-regular-webfont.woff2') format('woff2'),
+         url('assets/fonts/akkopro-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
 :root {
   font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
   line-height: 1.5;
@@ -44,6 +84,10 @@ body {
   place-items: center;
   min-width: 320px;
   min-height: 100vh;
+    background: #242a2f;
+    font-family: 'akko_light';
+    font-size: 16px;
+    background: white;
 }
 
 h1 {
