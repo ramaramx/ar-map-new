@@ -3,8 +3,8 @@
 
 @font-face {
     font-family: 'akko_bold';
-    src: url('fonts/akkopro-bold-webfont.woff2') format('woff2'),
-         url('fonts/akkopro-bold-webfont.woff') format('woff');
+    src: url('./fonts/akkopro-bold-webfont.woff2') format('woff2'),
+         url('./fonts/akkopro-bold-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
@@ -13,8 +13,8 @@
 
 @font-face {
     font-family: 'akko_light';
-    src: url('fonts/akkopro-light-webfont.woff2') format('woff2'),
-         url('fonts/akkopro-light-webfont.woff') format('woff');
+    src: url('./fonts/akkopro-light-webfont.woff2') format('woff2'),
+         url('./fonts/akkopro-light-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
@@ -22,8 +22,8 @@
 
 @font-face {
     font-family: 'akko_medium';
-    src: url('fonts/akkopro-medium-webfont.woff2') format('woff2'),
-         url('fonts/akkopro-medium-webfont.woff') format('woff');
+    src: url('./fonts/akkopro-medium-webfont.woff2') format('woff2'),
+         url('./fonts/akkopro-medium-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
@@ -31,8 +31,8 @@
 
 @font-face {
     font-family: 'akko_regular';
-    src: url('fonts/akkopro-regular-webfont.woff2') format('woff2'),
-         url('fonts/akkopro-regular-webfont.woff') format('woff');
+    src: url('./fonts/akkopro-regular-webfont.woff2') format('woff2'),
+         url('./fonts/akkopro-regular-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
